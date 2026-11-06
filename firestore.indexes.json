@@ -1,0 +1,130 @@
+{
+  "indexes": [],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "match_scouting",
+      "fieldPath": "data",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "match_scouting",
+      "fieldPath": "comments",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "match_scouting",
+      "fieldPath": "payload_hash",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "matches",
+      "fieldPath": "film_events",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "matches",
+      "fieldPath": "film_summary",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "matches",
+      "fieldPath": "youtube_key",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklists",
+      "fieldPath": "items",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "team_cache",
+      "fieldPath": "avatar",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "team_cache",
+      "fieldPath": "photos",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "team_cache",
+      "fieldPath": "record",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pit_scouting",
+      "fieldPath": "robot_photo",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pit_scouting",
+      "fieldPath": "capabilities",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pit_scouting",
+      "fieldPath": "notes",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "event_archive_chunks",
+      "fieldPath": "data",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "network_status",
+      "fieldPath": "packet_loss",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_records",
+      "fieldPath": "items",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "boards",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "notes",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "team_statuses",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "undo",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "redo",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_workspaces",
+      "fieldPath": "published",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_history",
+      "fieldPath": "snapshot",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "picklist_history",
+      "fieldPath": "published",
+      "indexes": []
+    },
+    {
+      "collectionGroup": "pit_photos",
+      "fieldPath": "image",
+      "indexes": []
+    }
+  ]
+}
